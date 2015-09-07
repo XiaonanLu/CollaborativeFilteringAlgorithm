@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul  5 16:02:54 2015
+Created on Sun Jul 5 16:02:54 2015
 
 Collaborative filtering Alternate Least Squares optimization algorithm
 
